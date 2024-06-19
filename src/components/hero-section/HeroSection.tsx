@@ -2,6 +2,8 @@
 
 export default function HeroSection() {
   return (
-    <div>HeroSection</div>
+    <div>HeroSection
+      <span>Hero</span>
+    </div>
   )
 }
